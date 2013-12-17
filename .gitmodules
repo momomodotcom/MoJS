@@ -1,15 +1,15 @@
 [submodule "MoVC_MoCP_Integration"]
 	path = MoVC_MoCP_Integration
-	url = /Users/V072652/a/Projects/MoJS/code/web-app/MoJS/MoVC_MoCP_Integration
+	url = https://github.com/momomodotcom/MoVC_MoCP_Integration.git
 [submodule "MoVC"]
 	path = MoVC
-	url = /Users/V072652/a/Projects/MoJS/code/web-app/MoJS/MoVC
+	url = https://github.com/momomodotcom/MoVC.git
 [submodule "MoEV"]
 	path = MoEV
-	url = /Users/V072652/a/Projects/MoJS/code/web-app/MoJS/MoEV
+	url = https://github.com/momomodotcom/MoEV.git
 [submodule "MoCP"]
 	path = MoCP
-	url = /Users/V072652/a/Projects/MoJS/code/web-app/MoJS/MoCP
+	url = https://github.com/momomodotcom/MoCP.git
 [submodule "MoQR"]
 	path = MoQR
-	url = /Users/V072652/a/Projects/MoJS/code/web-app/MoJS/MoQR
+	url = https://github.com/momomodotcom/MoQR.git
