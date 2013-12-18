@@ -17,7 +17,7 @@
         };
 
         require.config({
-                baseUrl: "/MoJS/",
+                baseUrl: "../../../",   // In order to make it work on
                 paths : {
                         "text" : "App/libs/text"
                 }
